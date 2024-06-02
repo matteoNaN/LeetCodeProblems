@@ -1,14 +1,8 @@
-﻿namespace LeetCodeProblems
+﻿namespace _344.ReverseString
 {
-    internal class Program
+    public static class LeetReverseString
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-
-
-        public void ReverseString(char[] s)
+        public static void ReverseString(char[] s)
         {
             if (s.Length <= 1) return;
 
