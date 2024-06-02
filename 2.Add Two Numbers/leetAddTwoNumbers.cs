@@ -1,13 +1,8 @@
 ﻿namespace LeetCodeProblems;
 
 
-internal class Program
+public class leetAddTwoNumbers 
 {
-    static void Main(string[] args)
-    {
-
-
-    }
 
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2, int carry = 0)
     {
