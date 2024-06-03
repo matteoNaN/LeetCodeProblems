@@ -8,6 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\2.AddTwoNumbers\2.AddTwoNumbers.csproj" />
+    <ProjectReference Include="..\3.LongestSubstringWithoutRepeatingCharacters\3.LongestSubstringWithoutRepeatingCharacters.csproj" />
+    <ProjectReference Include="..\344.ReverseString\344.ReverseString.csproj" />
     <ProjectReference Include="..\9.PalindromeNumber\9.PalindromeNumber.csproj" />
   </ItemGroup>
 

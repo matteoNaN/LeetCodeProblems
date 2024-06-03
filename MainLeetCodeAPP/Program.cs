@@ -1,4 +1,4 @@
-﻿using _9.PalindromeNumber;
+﻿using _3.LongestSubstringWithoutRepeatingCharacters;
 
 namespace MainLeetCodeAPP
 {
@@ -6,7 +6,11 @@ namespace MainLeetCodeAPP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(LeetPalindromeNumber.IsPalindrome(121));
+            string s = "abcabcbb";
+
+            int l = LeetLongestSubstringNoRC.LengthOfLongestSubstring(s);
+
+            Console.WriteLine(l);
         }
     }
 }
