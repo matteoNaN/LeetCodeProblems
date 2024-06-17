@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.LongestSubstringWithoutRe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.LogestCommonPrefix", "..\14.LogestCommonPrefix\14.LogestCommonPrefix.csproj", "{5842B760-DA25-4286-8001-D58C6F1DF0A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.RomanToInteger", "..\13.RomanToInteger\13.RomanToInteger.csproj", "{27C8F20B-7388-48DC-8F17-AEFC47D76570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.RomanToInteger", "..\13.RomanToInteger\13.RomanToInteger.csproj", "{27C8F20B-7388-48DC-8F17-AEFC47D76570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.ValidParentheses", "..\20.ValidParentheses\20.ValidParentheses.csproj", "{272E942E-8986-4574-9C7A-5B6901CF34EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{27C8F20B-7388-48DC-8F17-AEFC47D76570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27C8F20B-7388-48DC-8F17-AEFC47D76570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27C8F20B-7388-48DC-8F17-AEFC47D76570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272E942E-8986-4574-9C7A-5B6901CF34EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272E942E-8986-4574-9C7A-5B6901CF34EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272E942E-8986-4574-9C7A-5B6901CF34EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272E942E-8986-4574-9C7A-5B6901CF34EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
