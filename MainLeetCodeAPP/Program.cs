@@ -1,6 +1,7 @@
 ﻿using _3.LongestSubstringWithoutRepeatingCharacters;
 using _13.RomanToInteger;
 using _20.ValidParentheses;
+using ProblemiArrayGenerali;
 
 namespace MainLeetCodeAPP
 {
@@ -9,7 +10,8 @@ namespace MainLeetCodeAPP
         static void Main(string[] args)
         {
 
-            leetValidParentheses.IsValidStack("()");
+            var close = ProblemiArray.MergeAlternately_1768("abc", "pqr");
+            Console.WriteLine(close);
 
 
         }

@@ -12,6 +12,7 @@
     <ProjectReference Include="..\14.LogestCommonPrefix\14.LogestCommonPrefix.csproj" />
     <ProjectReference Include="..\2.AddTwoNumbers\2.AddTwoNumbers.csproj" />
     <ProjectReference Include="..\20.ValidParentheses\20.ValidParentheses.csproj" />
+    <ProjectReference Include="..\2239.closesSolutionTo0\ProblemiArrayGenerali.csproj" />
     <ProjectReference Include="..\3.LongestSubstringWithoutRepeatingCharacters\3.LongestSubstringWithoutRepeatingCharacters.csproj" />
     <ProjectReference Include="..\344.ReverseString\344.ReverseString.csproj" />
     <ProjectReference Include="..\9.PalindromeNumber\9.PalindromeNumber.csproj" />
